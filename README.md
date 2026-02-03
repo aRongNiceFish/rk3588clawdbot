@@ -1,0 +1,2 @@
+# rk3588clawdbot
+使用rk3588卡片电脑运行clawdbot，不用macmini也能实现ai助手
